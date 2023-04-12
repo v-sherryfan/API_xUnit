@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33611.457
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_xUnit", "API_xUnit\API_xUnit.csproj", "{E548EE5D-21E9-402C-A447-1BBEF0E14CBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeWeb1.UnitTests", "PrimeWeb1.UnitTests\PrimeWeb1.UnitTests.csproj", "{8F13BCBB-9CA8-44A6-B00E-67017A33F701}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E548EE5D-21E9-402C-A447-1BBEF0E14CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E548EE5D-21E9-402C-A447-1BBEF0E14CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E548EE5D-21E9-402C-A447-1BBEF0E14CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F13BCBB-9CA8-44A6-B00E-67017A33F701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F13BCBB-9CA8-44A6-B00E-67017A33F701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F13BCBB-9CA8-44A6-B00E-67017A33F701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F13BCBB-9CA8-44A6-B00E-67017A33F701}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
